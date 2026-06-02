@@ -33,4 +33,4 @@ Currently open to new opportunities.
 
 ---
 
-📧 IsaiahGardnerWork@gmail.com &nbsp;·&nbsp; 📍 Fort Wayne, IN
+📍 Fort Wayne, IN
