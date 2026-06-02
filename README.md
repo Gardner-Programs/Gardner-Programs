@@ -1,6 +1,6 @@
 # Isaiah Gardner
 
-Integrations engineer with 5 years of experience building production systems from scratch — REST APIs, automation pipelines, internal tooling, and full-stack apps. Spent my career at a 20+ office logistics company where I was the sole engineer, building and owning the entire integration portfolio.
+Integrations engineer with 5 years of experience building production systems from scratch — REST APIs, automation pipelines, and internal tooling. Spent my career at a 20+ office logistics company where I was the sole engineer, building and owning the entire integration portfolio.
 
 Currently open to new opportunities.
 
@@ -10,8 +10,7 @@ Currently open to new opportunities.
 
 - **API integrations** — Google Workspace, HubSpot, Slack, Atera RMM, 8x8 VoIP, AWS, Active Directory
 - **Automation pipelines** — KPI reporting, user lifecycle management, account provisioning, email systems
-- **Internal tooling** — GUI desktop apps, CLI tools, Flask REST services, MongoDB/MySQL backends
-- **Full-stack** — Python, React, TypeScript, Node.js, Flask
+- **Internal tooling** — GUI desktop apps, CLI tools, REST services, MongoDB/MySQL backends, React/TypeScript front ends
 
 ---
 
@@ -19,7 +18,7 @@ Currently open to new opportunities.
 
 **[CodeHound](https://github.com/Gardner-Programs/CodeHound)** — Browser extension (Chrome + Firefox) that finds verification codes in Gmail and copies them to your clipboard. Optional AI mode via Claude or OpenAI.
 
-**[CircleConnect](https://github.com/Gardner-Programs/CircleConnect)** — MongoDB-backed project management platform serving 7 departments. Full CRUD across Agile sprints, work items, and Fibonacci story point estimation.
+**[Domain Email Signatures](https://github.com/Gardner-Programs/Domain-Email-Signatures)** — Replaced a $9K/yr vendor tool with a custom Python system managing signatures for 750 users via Gmail API domain-wide delegation.
 
 **[Google Workspace Tools](https://github.com/Gardner-Programs/Google-Workspace-Tools)** — Collection of production scripts spanning 7 Google APIs: user lifecycle, OU mirroring, device auditing, after-hours monitoring, and more.
 
@@ -29,7 +28,7 @@ Currently open to new opportunities.
 
 ## Stack
 
-`Python` `Flask` `React` `TypeScript` `Node.js` `MongoDB` `MySQL` `AWS Lambda` `AWS RDS` `Google Workspace APIs` `OAuth2` `Selenium` `PowerShell` `Active Directory`
+`Python` `REST APIs` `Google Workspace APIs` `AWS Lambda` `AWS RDS` `MongoDB` `MySQL` `OAuth2` `Selenium` `Active Directory` `PowerShell` `Node.js` `TypeScript`
 
 ---
 
