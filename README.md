@@ -2,6 +2,8 @@
 
 Integrations engineer with 5 years of experience building production systems from scratch: REST APIs, automation pipelines, and internal tooling. Spent my career at a 20+ office logistics company where I was the sole engineer, building and owning the entire integration portfolio.
 
+Lately I've been building AI-adjacent tooling: LLM integrations, embeddings, and local-first systems.
+
 Currently open to new opportunities.
 
 ---
@@ -16,6 +18,8 @@ Currently open to new opportunities.
 
 ## Featured Projects
 
+**[AkashicCodex](https://github.com/Gardner-Programs/akashic-codex)** - A local, model-agnostic memory store for AI conversations. SQLite + `sqlite-vec` hybrid search (FTS5 keyword + semantic vectors, fused with reciprocal rank fusion), a two-tier retrieval pipeline, and CLI + FastAPI interfaces over one store you own. Switch between Claude, Gemini, or a local model and keep your context.
+
 **[CodeHound](https://github.com/Gardner-Programs/CodeHound)** - Browser extension (Chrome + Firefox) that finds verification codes in Gmail and copies them to your clipboard. Optional AI mode via Claude or OpenAI.
 
 **[Domain Email Signatures](https://github.com/Gardner-Programs/Domain-Email-Signatures)** - Replaced a $9K/yr vendor tool with a custom Python system managing signatures for 750 users via Gmail API domain-wide delegation.
@@ -28,7 +32,7 @@ Currently open to new opportunities.
 
 ## Stack
 
-`Python` `REST APIs` `Google Workspace APIs` `AWS Lambda` `AWS RDS` `MongoDB` `MySQL` `OAuth2` `Selenium` `Active Directory` `PowerShell` `Node.js` `TypeScript`
+`Python` `REST APIs` `FastAPI` `Google Workspace APIs` `AWS Lambda` `AWS RDS` `MongoDB` `MySQL` `SQLite` `OAuth2` `LLM integration` `Embeddings` `Selenium` `Active Directory` `PowerShell` `Node.js` `TypeScript`
 
 ---
 
