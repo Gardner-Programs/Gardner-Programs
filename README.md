@@ -22,6 +22,8 @@ Currently open to new opportunities.
 
 **[CodeHound](https://github.com/Gardner-Programs/CodeHound)** - Browser extension (Chrome + Firefox) that finds verification codes in Gmail and copies them to your clipboard. Optional AI mode via Claude or OpenAI.
 
+**[ntfy-notify](https://github.com/Gardner-Programs/ntfy-notify)** - Model Context Protocol (MCP) server that lets Claude/Cowork push phone notifications via ntfy. Wired into a scheduled daily job-search sweep so the summary lands on my phone the moment it finishes.
+
 **[Domain Email Signatures](https://github.com/Gardner-Programs/Domain-Email-Signatures)** - Replaced a $9K/yr vendor tool with a custom Python system managing signatures for 750 users via Gmail API domain-wide delegation.
 
 **[Google Workspace Tools](https://github.com/Gardner-Programs/Google-Workspace-Tools)** - Collection of production scripts spanning 7 Google APIs: user lifecycle, OU mirroring, device auditing, after-hours monitoring, and more.
@@ -32,7 +34,7 @@ Currently open to new opportunities.
 
 ## Stack
 
-`Python` `REST APIs` `FastAPI` `Google Workspace APIs` `AWS Lambda` `AWS RDS` `MongoDB` `MySQL` `SQLite` `OAuth2` `LLM integration` `Embeddings` `Selenium` `Active Directory` `PowerShell` `Node.js` `TypeScript`
+`Python` `REST APIs` `FastAPI` `Google Workspace APIs` `AWS Lambda` `AWS RDS` `MongoDB` `MySQL` `SQLite` `OAuth2` `MCP` `LLM integration` `Embeddings` `Selenium` `Active Directory` `PowerShell` `Node.js` `TypeScript`
 
 ---
 
